@@ -1,1 +1,1 @@
-This Is my first story for Git
+This Is my first Commit
